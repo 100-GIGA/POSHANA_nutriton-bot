@@ -1,1 +1,1 @@
-# POSHANA_nutriton-bot
+-> cd src -> npm start -> then new terminal -> cd server -> node server.js -> view localhost 3000
